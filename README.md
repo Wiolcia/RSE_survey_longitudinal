@@ -10,7 +10,7 @@ Since 2018 we have worked differently and created a survey for all countries (ra
 This site covers results from all surveys since 2016.
 
 ## Composition of the survey
-The [base questions](https://github.com/softwaresaved/international-survey/blob/master/survey_creation/2018/questions.csv) for the survey were tailored to meet the requirements of each country. They covered ten subjects:
+The base [questions](2022/2022_cols.csv) for the survey were tailored to meet the requirements of each country. They covered ten subjects:
    1. **Demographics**: traditional social and economic questions, such as gender, age, salary and education.
    1. **Coding**: how much code do RSEs write, how often, and for whom.
    1. **Employment**: questions about where RSEs work and in which disciplines.
