@@ -35,9 +35,10 @@ Below is a list of contributors to this repository, in last name alphabetic orde
 The data stored in this repository is under the [CC BY 2.5 SCOTLAND](https://github.com/softwaresaved/international-survey/blob/master/LICENSE_FOR_DATA).
 
 ## Citations
+Check the repository's [citation file](CITATION.cff).
 
 The citation for the 2022 version is:
-> Simon Hettrick, Radovan Bast, Alex Botzki, Jeff Carver, Ian Cosden, Steve Crouch, Florencia D’Andrea, Abhishek Dasgupta, William Godoy, Alejandra Gonzalez-Beltran, Ulf Hamster, Scott Henwood, Patric Holmvall, Stephan Janosch, Thibault Lestang, Nick May, Olivier Philippe, Johan Philips, Nooriyah Poonawala-Lohani, Paul Richmond, Manodeep Sinha, Florian Thiery, Ben van Werkhoven, Claire Wyatt & Qian Zhang. "RSE Survey 2022", Pre-final release for 2022 results (Version 2022-v0.9.0). Zenodo DOI: <https://doi.org/10.5281/zenodo.6884882>. Check the repository's [citation file](CITATION.cff).
+> Simon Hettrick, Radovan Bast, Alex Botzki, Jeff Carver, Ian Cosden, Steve Crouch, Florencia D’Andrea, Abhishek Dasgupta, William Godoy, Alejandra Gonzalez-Beltran, Ulf Hamster, Scott Henwood, Patric Holmvall, Stephan Janosch, Thibault Lestang, Nick May, Olivier Philippe, Johan Philips, Nooriyah Poonawala-Lohani, Paul Richmond, Manodeep Sinha, Florian Thiery, Ben van Werkhoven, Claire Wyatt & Qian Zhang. "RSE Survey 2022", Pre-final release for 2022 results (Version 2022-v0.9.0). Zenodo DOI: <https://doi.org/10.5281/zenodo.6884882>. 
 
 The citation for the 2018 version is:
 > Olivier Philippe, Martin Hammitzsch, Stephan Janosch, Anelda van der Walt, Ben van Werkhoven, Simon Hettrick, … Manodeep Sinha. (2019, March 6). softwaresaved/international-survey: Public release for 2018 results (Version 2018-v.1.0.2). Zenodo. <http://doi.org/10.5281/zenodo.2585783>
