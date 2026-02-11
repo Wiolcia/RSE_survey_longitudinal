@@ -1,0 +1,94 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: International RSE Survey 2022
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Simon
+    family-names: Hettrick
+    email: s.hettrick@software.ac.uk
+    affiliation: Software Sustainability Institute
+    orcid: 'https://orcid.org/0000-0002-6809-5195'
+  - given-names: Radovan
+    family-names: Bast
+  - given-names: Steve
+    family-names: Crouch
+    email: s.crouch@software.ac.uk
+    affiliation: Software Sustainability Institute
+    orcid: 'https://orcid.org/0000-0001-8985-6814'
+  - given-names: Claire
+    family-names: Wyatt
+    email: c.wyatt@software.ac.uk
+    affiliation: Software Sustainability Institute
+  - given-names: Olivier
+    family-names: Philippe
+  - given-names: Alex
+    family-names: Botzki
+  - given-names: Jeffrey
+    family-names: Carver
+    email: carver@cs.ua.edu
+    affiliation: University of Alabama
+    orcid: 'https://orcid.org/0000-0002-7824-9151'
+  - given-names: Ian
+    family-names: Cosden
+  - given-names: Florencia
+    family-names: D'Andrea
+  - given-names: Abhishek
+    family-names: Dasgupta
+  - given-names: William
+    family-names: Godoy
+  - given-names: Alejandra
+    family-names: Gonzalez-Beltran
+  - given-names: Ulf
+    family-names: Hamster
+  - given-names: Scott
+    family-names: Henwood
+    affiliation: CANARIE
+  - given-names: Patric
+    family-names: Holmvall
+  - given-names: Stephan
+    family-names: Janosch
+  - given-names: Thibault
+    family-names: Lestang
+  - given-names: Nick
+    family-names: May
+  - given-names: Johan
+    family-names: Philips
+  - given-names: Nooriyah
+    family-names: Poonawala-Lohani
+  - given-names: Paul
+    family-names: Richmond
+  - given-names: Manodeep
+    family-names: Sinha
+  - given-names: Florian
+    family-names: Thiery
+  - given-names: Ben
+    name-particle: van
+    family-names: Werkhoven
+  - given-names: Qian
+    family-names: Zhang
+    affiliation: CANARIE
+  - given-names: Wioleta
+    family-names: Kijewska
+    email: w.kijewska@soton.ac.uk
+    affiliation: University of Southampton
+    orcid: 'https://orcid.org/0009-0005-4265-578X'
+  - given-names: Heather
+    family-names: Packer
+    name-particle: S
+    email: hp3@ecs.soton.ac.uk
+    affiliation: University of Southampton
+  - given-names: Michael
+    family-names: Donnay
+    email: M.J.Donnay@soton.ac.uk
+    name-particle: J
+    affiliation: University of Southampton
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18609993
+version: 2022.0.0
+date-released: '2026-02-11'
