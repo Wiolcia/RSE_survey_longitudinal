@@ -32,7 +32,7 @@ Below is a list of contributors to this repository, in last name alphabetic orde
 
 ## Licence 
 
-The data stored in this repository is under the [CC BY 2.5 SCOTLAND](https://github.com/softwaresaved/international-survey/blob/master/LICENSE_FOR_DATA).
+The data stored in this repository is under the [CC BY 4.0](LICENSE).
 
 ## Citations
 Check the repository's [citation file](CITATION.cff).
